@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Games
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Bootstrap JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div class = "container-fluid">
+            <div class = "jumbotron">
+                <h1>History</h1>
+                
+            </div>
+           <div class="row">
+                <div class="col-xs-12">
+                    <ul class="nav nav-tabs">
+                        <li><a href="index.html">Home</a></li>
+                        <li class="active"><a href="history.html">History</a></li>
+                        <li><a href="contact.html">Contacts</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class ="container">
+                <div class = "row">
+                    <div class ="col-sm-6">
+                        <p>
+                            column 1<br>
+                            Like kanji, fireworks, and General Tsao's chicken 1, rock, paper, scissors was actually created in China. 
+                            The game was created around the time of Christ, but stayed in China for hundreds of years. 
+                            It wasn't until the 1700s that it made its way over to Japan. The rest, as they say, is history.
+                        </p>
+                    </div>
+                    <div class ="col-sm-6">
+                        <p>
+                            column 2<br>
+                            Rock–paper–scissors (also known as scissors–rock–paper or other variants) is a hand game usually played between two people,
+                             in which each player simultaneously forms one of three shapes with an outstretched hand. 
+                             These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V).
+                              "Scissors" is identical to the two-fingered V sign (also indicating "victory" or "peace") except that it is pointed horizontally instead of being held 
+                              upright in the air. A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a win for one player and a loss for the other.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
