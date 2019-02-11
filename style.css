@@ -1,0 +1,36 @@
+.jumbotron{
+text-align:center;
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1sfXf7k_Tg8ViRqT7-9WEsqhCdWVs4-P3q2OKlPEsic-8ixr");
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    text-align:center;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+.button{
+    color: Lightblue;
+}
+#paper{
+    color:lightgray;
+}
+#scissors{
+    color:gray;
+}
+#rock{
+    color:darkgray;
+}
